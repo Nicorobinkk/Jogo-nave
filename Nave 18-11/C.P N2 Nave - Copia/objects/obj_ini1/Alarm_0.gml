@@ -5,4 +5,4 @@
 // Inherit the parent event
 event_inherited();
 
-alarm[0] = random_range(2,3) * room_speed;dfsfsf
+alarm[0] = random_range(2,3) * room_speed;
